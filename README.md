@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/llKJGxQ1ESmac/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/llKJGxQ1ESmac/giphy.gif" width="50%"/>
 </div>
 
 <div id="badges"  align="center">
@@ -28,8 +28,8 @@ Here are some ideas to get you started:
   </a>
   <img src="https://komarev.com/ghpvc/?username=your-mohamed00736&style=flat-square&color=blue" alt=""  />
 </div>
-<h1>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" />
 </h1>
 
 <div align="center">
