@@ -42,14 +42,14 @@ Here are some ideas to get you started:
 
 ### :man_technologist: About Me :
 
-I am an ANDROID  Developer <img src=https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif" width="30"> from ALGERIA.
+I am an ANDROID  DEV  from ALGERIA.
   
   
-  - 👽: I’m working as a Android  DEV and contributing to frontend and backend for building web applications.
+  - 👽: I’m working as a Android  DEV for my self . 
 
 - 👽: CYPHERPUNK
 
-- 👽: In my free time, I learn more about blockchain.
+- 👽: In my free time, I learn more about blockchain .
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://dz.linkedin.com/in/mohamed-hacine-007)
 
