@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 I am an ANDROID  DEV  from ALGERIA.
   
   
-  - 👽: I’m working as a Android  DEV for  <a  href="https://www.linkedin.com/company/arbin-vtc/"> Harbin El Djazair - Hail Riding Company </a> . 
+  - 👽: I’m working as a Android  DEV for  <a  href="https://www.linkedin.com/company/arbin-vtc/"> Harbin El Djazair - Ride Hailing Company </a> . 
 
 - 👽: CYPHERPUNK
 
