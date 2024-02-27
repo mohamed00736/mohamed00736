@@ -44,8 +44,11 @@ Here are some ideas to get you started:
 
 I am an ANDROID  DEV  from ALGERIA.
   
+
+  - 👽: I’m working as an     Asociate Engineer 1  for  <a  href="https://yassir.com/">  YASSIR (YC W20)  </a> . 
+
   
-  - 👽: I’m working as a Android  DEV for  <a  href="https://www.linkedin.com/company/arbin-vtc/"> Harbin El Djazair - Ride Hailing Company </a> . 
+  - 👽: Previously worked as an  Android  DEV for  <a  href="https://www.linkedin.com/company/arbin-vtc/"> Harbin El Djazair - Ride Hailing Company </a> . 
 
 - 👽: CYPHERPUNK
 
