@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 ### :man_technologist: About Me :
 
-I am an ANDROID  DEV  from ALGERIA.
+I am an Software Engineer from ALGERIA.
   
 
   - 👽: I’m working as an     Asociate Engineer 1  for  <a  href="https://yassir.com/">  YASSIR (YC W20)  </a> . 
