@@ -54,7 +54,7 @@ I am an Software Engineer from ALGERIA.
 
 - 👽: In my free time, I learn more about blockchain .
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://dz.linkedin.com/in/mohamed-hacine-007)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-HACINE-blue?style=flat&logo=Linkedin&logoColor=white)](https://dz.linkedin.com/in/mohamed-hacine-007)
 
   
   ### :hammer_and_wrench: Languages and Tools :
