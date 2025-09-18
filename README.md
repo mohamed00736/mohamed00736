@@ -41,20 +41,16 @@ Here are some ideas to get you started:
 ---
 
 ### :man_technologist: About Me :
-
-I am an Software Engineer from ALGERIA.
   
-
-  - 👽: I’m working as an     Asociate Engineer 1  for  <a  href="https://yassir.com/">  YASSIR (YC W20)  </a> . 
-
+  - 👽: I’m working as an     Software Engineer   for  <a  href="https://yassir.com/">  YASSIR (YC W20)  </a> . 
   
   - 👽: Previously worked as an  Android  DEV for  <a  href="https://www.linkedin.com/company/arbin-vtc/"> Harbin El Djazair - Ride Hailing Company </a> . 
 
-- 👽: CYPHERPUNK
+  - 👽: CYPHERPUNK
 
-- 👽: In my free time, I learn more about blockchain .
+  - 👽: In my free time, I learn more about blockchain .
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-HACINE-blue?style=flat&logo=Linkedin&logoColor=white)](https://dz.linkedin.com/in/mohamed-hacine-007)
+  - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-HACINE-blue?style=flat&logo=Linkedin&logoColor=white)]        (https://dz.linkedin.com/in/mohamed-hacine-007)
 
   
   ### :hammer_and_wrench: Languages and Tools :
