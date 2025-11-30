@@ -75,3 +75,44 @@ Here are some ideas to get you started:
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed00736&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamed00736&show_icons=true&theme=radical)
+
+---
+
+### :fire: My Stats
+
+#### 🔥 Contribution Activity Graph
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohamed00736&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+#### 🏆 GitHub Trophy Wall
+[![Trophy](https://github-profile-trophy.vercel.app/?username=mohamed00736&theme=onedark&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+#### 🐍 Snake Eating My Contributions
+![snake gif](https://github.com/mohamed00736/mohamed00736/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+#### 📊 Modern GitHub Stats
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=mohamed00736&theme=react&show_icons=true&hide_border=true)
+
+---
+
+#### 🔥 Streak Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mohamed00736&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+---
+
+#### 🧠 Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed00736&layout=compact&theme=vision-friendly-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+#### 🥇 GitHub Achievements
+![Achievements](https://github-profile-achievements.vercel.app/api/badge/maintainer/mohamed00736)
+![Achievements](https://github-profile-achievements.vercel.app/api/badge/collaborator/mohamed00736)
+
+---
+
