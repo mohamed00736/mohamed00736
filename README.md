@@ -28,7 +28,7 @@ My interests revolve around:
 🔹 Machine learning on-device  
 🔹 Elegant architecture & product polish  
 
-I love solving problems that feel “impossible” at first glance.
+
 
 ---
 
