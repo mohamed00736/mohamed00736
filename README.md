@@ -56,7 +56,7 @@ My interests revolve around:
 ---
 
 # 📊 GitHub Stats
-![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=mohamed00736&theme=react&show_icons=true&hide_border=true)
+
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com?user=mohamed00736&theme=tokyonight&hide_border=true)
 
