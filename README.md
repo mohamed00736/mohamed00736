@@ -35,7 +35,7 @@ My interests revolve around:
 <div align="left">
 
 **Mobile:** Kotlin · Swift · Jetpack Compose · SwiftUI  
-**AI/ML:** ML Kit · TensorFlow Lite · Computer Vision  
+**AI/ML:** ML Kit · TensorFlow Lite 
 **System Stuff:** NFC · CameraX · Accessibility APIs  
 **Architecture:** Clean Architecture · MVVM  
 **Tools:** GitHub Actions · Firebase · Realm  
