@@ -9,7 +9,6 @@
   <a href="https://twitter.com/MohamedHcnEliot">
     <img src="https://img.shields.io/badge/Twitter-000000?logo=twitter&logoColor=white&style=for-the-badge"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=mohamed00736&style=for-the-badge&color=blue"/>
 </div>
 
 ---
