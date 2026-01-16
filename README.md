@@ -44,20 +44,6 @@ My interests revolve around:
 
 ---
 
-# 🔥 Activity Graph
-[![Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohamed00736&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-# 🏆 Achievement Wall
-[![Trophy](https://github-profile-trophy.vercel.app/?username=mohamed00736&theme=onedark&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-# 📊 GitHub Stats
-
-
-![Streak](https://github-readme-streak-stats.herokuapp.com?user=mohamed00736&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -66,10 +52,6 @@ My interests revolve around:
 
 ---
 
-# 🐍 Contribution Snake
-![snake](https://github.com/mohamed00736/mohamed00736/blob/output/github-contribution-grid-snake.svg)
-
----
 
 <div align="center">
   <strong>Always building. Always learning. Always shipping.</strong>
